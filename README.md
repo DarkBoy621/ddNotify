@@ -12,7 +12,7 @@ exports['ddNotify']:Notify(text, type, duration)
 TriggerClientEvent('ddNotification:Notification', source, text, type, duration)
 
 ## Docs site
-You can visit [docs](http://darkdevelopment.net/docs) site 
+You can visit [docs](http://docs.darkdevelopment.net) site 
 
 ## Support
 If you have some questions contact us on [discord](https://discord.gg/ME9dWD5cXW)
